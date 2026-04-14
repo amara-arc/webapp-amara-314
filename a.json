@@ -1,0 +1,7 @@
+{
+  "name": "webapp-aiman",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'no server needed'"
+  }
+}
